@@ -1,0 +1,18 @@
+*::after, *::before{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#hero{
+    background: rgb(0, 79, 156);
+}
+.navbar{
+    background: rgb(0, 79, 156) !important;
+}
+.pesquisa{
+    background: linear-gradient(to right, rgb(9,127,201),rgb(0,39,78));
+}
+.amanda :hover{
+    color: red;
+}
